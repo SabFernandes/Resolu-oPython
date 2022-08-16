@@ -1,0 +1,9 @@
+# Qual será o resultado da expressão abaixo?
+2 + 3 * 5 + 30 // 10
+valor = 2 + 3 * 5 + 30 // 10
+print(valor) -> 20 
+
+#Qual será o resultado da expressão abaixo?
+True or False and False
+True or False
+True - > NOT true tem prioridade, logo após vem o AND e depois OR
